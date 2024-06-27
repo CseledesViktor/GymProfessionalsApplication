@@ -1,0 +1,21 @@
+Profil kezelése:
+	Regisztráció:   	Regisztrációkor kiválasztható milyen típusú fiókot szeretnénk regisztrálni(edző vagy átlagos felhasználó).
+				Az adatok feltöltésére ilyenkor kerül sor. A mezők kitöltendőek, nem lehet regisztálni nélkülük.
+	Adatok kezelése:	A felhasználók a megadott adatait agy jelszavát tudja módosítani, a profil oldalon. Továbbá profilképet tud megadni vagy a már meglévőt változtatni.
+
+Tartalom feltöltése
+	Edzésterv feltöltése:	Az edzéstervet az edzők egy egységes form szerint tudják feltölteni. 
+				Egy héten napi bontásra kerülnek fel az edzések, melyekhez az feltöltőírhat további információkat, tanácsokat.
+				Egy edző több fajta edzéstervet is feltölthet, ezek egymástól elkülönülve jelennek meg.
+	Képek feltöltése:	Edzőként képeket lehet feltölteni a galériába. A képek külön oldalon jelennek meg az edző profilja alatt.
+	Étrend feltöltése:	Étrendet az edzéstervhez hasonlóan egységesen a felület szerint kell posztolnia az edzőknek. 
+				Az edzőnek meg kell adni az étel nevét, lehetőleg pontos becslés szerinti tápanyag értékeket, alapanyagokat mértékegységekkel, de receptet nem kell írnia
+	Bejegyzés posztolása:	Egyszerű szöveges híreket tud feltölteni az edző.
+
+Navigáció:
+	Szűrés használata: 	A felhasználó név, város, kor vagy nem alapján tud szűrni az edzők között, hogy számára biztos megfelelő személyi edzővel tudja felvenni a kapcsolatot
+	Főoldalon böngészés: 	A felhasználó a főoldalon ajánlott edzők között tud böngészni. A főoldalra véletlenszerűen kerülnek megjelenítésre az edzők.
+
+Chat-rendszer:
+	Üzenetek küldése:	Az üzenetküldéseknél a felhasználók egymást között tudnak szöveges üzeneteket küldeni egymásnak.
+	Hozzászólás\értékelés:	A kommunikáció másik formája, hogy a felhasználók az edzők profilja alatt nyílt hozzászólásokat és értékeléseket hagynak.
